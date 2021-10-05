@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  margin-top: 230px;
+  font-size: 90px;
+}
+h1 span:nth-child(1) {
+  color: #4084ef;
+}
+h1 span:nth-child(2) {
+  color: #ed4137;
+}
+h1 span:nth-child(3) {
+  color: #fabc05;
+}
+h1 span:nth-child(4) {
+  color: #387de5;
+}
+h1 span:nth-child(5) {
+  color: #33a953;
+}
+h1 span:nth-child(6) {
+  color: #ed4137;
+}
+.bar {
+  width: 500px;
+}
